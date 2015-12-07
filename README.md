@@ -1,2 +1,2 @@
 # imc.py
-Programa para calcular o Índice de Massa Corporal ( IMC).
+Digite sua altura e seu peso, ele calculará e irá informar qual é a sua situação.
